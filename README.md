@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/afolabi0088/folacicddemo/_apis/build/status/folacicddemo%20-%20CI)](https://dev.azure.com/afolabi0088/folacicddemo/_build/latest?definitionId=15)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
